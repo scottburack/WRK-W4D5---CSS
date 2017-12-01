@@ -1,0 +1,28 @@
+// Use the gear_dropdown.png screenshot as a style guide
+
+.gear-dropdown {
+  width: 150px;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+  
+}
+
+.hidden {
+  display: none;
+}
+
+.editions li {
+  font-size: 13.5px;
+}
+
+.dropdown-subtitle {
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.help li {
+  font-size: 13.5px;
+}
+

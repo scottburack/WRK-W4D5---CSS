@@ -1,0 +1,17 @@
+.topics {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+  margin: 7px 350px;
+}
+
+.topics li:hover{
+  background-color: $gray;
+  
+}
+
+.topics li:nth-child(11):hover{
+  text-decoration: underline;
+  background-color: white;
+}
